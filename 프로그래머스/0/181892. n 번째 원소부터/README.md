@@ -1,10 +1,10 @@
 # [level 0] n 번째 원소부터 - 181892 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181892) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181892?language=javascript) 
 
 ### 성능 요약
 
-메모리: 75.8 MB, 시간: 0.03 ms
+메모리: 33.4 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 16일 19:36:15
+2025년 10월 23일 23:47:46
 
 ### 문제 설명
 
